@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Ramadan Animation</string>
+    <string name="a_mandala_image">A mandala image</string>
+    <string name="ramadan_kareem_image">Ramadan Kareem image</string>
+    <string name="doaa">Du\'aa for breakfast</string>
+    <string name="a_crescent_moon_image">A crescent moon image</string>
+    <string name="a_star_image">A star image</string>
+    <string name="a_lantern_image">A Lantern image</string>
 </resources>
