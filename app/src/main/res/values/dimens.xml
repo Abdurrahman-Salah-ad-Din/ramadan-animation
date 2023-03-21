@@ -5,6 +5,6 @@
     <dimen name="moon_height">64dp</dimen>
     <dimen name="header_height">200dp</dimen>
     <dimen name="doaa_width_height">300dp</dimen>
-    <dimen name="phanos_height">250dp</dimen>
-    <dimen name="phanos_width">92dp</dimen>
+    <dimen name="lantern_height">250dp</dimen>
+    <dimen name="lantern_width">92dp</dimen>
 </resources>

@@ -35,8 +35,8 @@
 
     <ImageView
         android:id="@+id/imageLantern"
-        android:layout_width="@dimen/phanos_width"
-        android:layout_height="@dimen/phanos_height"
+        android:layout_width="@dimen/lantern_width"
+        android:layout_height="@dimen/lantern_height"
         app:layout_constraintBottom_toTopOf="parent"
         android:contentDescription="@string/a_lantern_image"
         app:layout_constraintEnd_toEndOf="parent"
