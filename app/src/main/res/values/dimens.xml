@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="moon_width">88dp</dimen>
+    <dimen name="moon_height">64dp</dimen>
+    <dimen name="header_height">200dp</dimen>
+    <dimen name="doaa_width_height">300dp</dimen>
+    <dimen name="phanos_height">250dp</dimen>
+    <dimen name="phanos_width">92dp</dimen>
+</resources>
