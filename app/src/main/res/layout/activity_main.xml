@@ -34,7 +34,7 @@
         app:srcCompat="@drawable/header" />
 
     <ImageView
-        android:id="@+id/imagePhanos"
+        android:id="@+id/imageLantern"
         android:layout_width="@dimen/phanos_width"
         android:layout_height="@dimen/phanos_height"
         app:layout_constraintBottom_toTopOf="parent"
@@ -42,14 +42,14 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toEndOf="@+id/imageHeader"
-        app:srcCompat="@drawable/phanos_1" />
+        app:srcCompat="@drawable/lantern" />
 
     <ImageView
         android:id="@+id/starTwo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/imagePhanos"
+        app:layout_constraintEnd_toStartOf="@+id/imageLantern"
         app:layout_constraintHorizontal_bias="0.824"
         android:contentDescription="@string/a_star_image"
         app:layout_constraintStart_toStartOf="parent"
